@@ -4,6 +4,7 @@ There are two part of codes
 First part will allow you do to a specific key term search and determine:
  - Does this key term return you any result.
  - How many result does this key return.
+ 
 Second part will be enter a partial key, and it will bring a dropdown on the search bar:
  - Each item on the dropdown will be print at console.
 
