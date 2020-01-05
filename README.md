@@ -75,6 +75,25 @@ Run with Jenkins
    - You may set your own Goals, it does not has to be the same!
 ```
 
+### Changing the Key Term 
+
+If you desire to change the key term, you can change it following below steps:
+
+feature folder
+```
+1. Goes to src/test/java/cucumberJava.feature
+2. Under "Exmaples"
+3. You can "Change" the current 'key term' or 'partial term' OR you can add an additional key term which the test will run additional round for the new key term.
+```
+
+quickstart folder
+```
+1. Goes to src/main/java/pageObjects/HomePage.java
+2. Goes to line where it says : 'key' and 'partialKey'
+3. Change the key as you desire!
+```
+
+
 ## Acknowledgments
 
 * All the library/JARs used are listed inside pom.xml
