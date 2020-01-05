@@ -1,5 +1,8 @@
 # Amazon Key Term Search
 
+This is automation code which allow user to be repeat running and capture results when searching specific keyterms.
+
+
 There are two part of codes
 First part will allow you do to a specific key term search and determine:
  - Does this key term return you any result.
